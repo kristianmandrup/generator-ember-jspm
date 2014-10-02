@@ -1,0 +1,36 @@
+{
+  "name": "generator-ember-jspm",
+  "version": "0.0.1",
+  "description": "Yeoman generator for generating Ember app using jspm with SystemJS as alternative to AMD",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "kristianmandrup/generator-ember-jspm",
+  "author": {
+    "name": "Kristian Mandrup",
+    "email": "kmandrup@gmail.com",
+    "url": "https://github.com/kristianmandrup"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
