@@ -1,5 +1,7 @@
 # Ember app generator for jspm [![Build Status](https://secure.travis-ci.org/kristianmandrup/generator-ember-jspm.png?branch=master)](https://travis-ci.org/kristianmandrup/generator-ember-jspm)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/generator-ember-jspm.svg)](https://greenkeeper.io/)
+
 Creates an Ember app configured to use [SystemJS](https://github.com/systemjs/systemjs) and [jspm](http://jspm.io) as package and build managers.
 
 ## Getting Started
